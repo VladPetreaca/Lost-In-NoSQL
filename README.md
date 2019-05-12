@@ -5,15 +5,7 @@ Programare Orientata pe Obiecte
 
 # Lost in NoSQL
 
-##### :
 
-```
-Responsabili Tema Marilena Panaite, Andreea Marica, Daniel Nicolescu
-Data Publicării 14 noiembrie 2018
-Deadline 8 decembrie 2018 (ora 22:00)
-După deadline se acceptă teme până la data de 15 decembrie cu
-depunctare de 1 punct/zi
-```
 ## 1) Introducere
 
 Scopul acestei teme este de a simula implementarea unei baze de date NoSQL [1],
